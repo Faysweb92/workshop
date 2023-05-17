@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(213, 243, 186);
+  width: 100%;
+}
+
+#contenu {
+  background-color: white;
+  width: 50%;
+  min-height: 900px;
+  margin: auto;
+  border: solid black;
+}
+
+header {
+  width: 100%;
+  height: 240px;
+}
+
+header div:first-child {
+  float: left;
+}
+
+nav {
+  background-color: rgb(156, 230, 45);
+  width: 100%;
+  height: 25px;
+}
+
+nav > ul > li {
+  color: solid white;
+  float: left;
+}
+
+li {
+}
+
+section div:first-child {
+  width: 100%;
+  height: 200px;
+  margin: auto;
+}
+
+section div:last-child {
+  width: 100%;
+  height: 200px;
+  margin: auto;
+  float: left;
+}
+
+h1 {
+  color: rgb(213, 243, 186);
+}
+h2 {
+  color: rgb(213, 243, 186);
+}
+
+footer {
+  color: rgb(213, 243, 186);
+}
+
+.clear {
+  clear: both;
+}

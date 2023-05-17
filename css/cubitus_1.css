@@ -1,0 +1,21 @@
+.carre {
+  width: 100px;
+  height: 100px;
+  border: solid;
+  border-radius: 20px;
+  float: left;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.vert {
+  background-color: aquamarine;
+}
+
+.violet {
+  background-color: blueviolet;
+}
+
+.clear{
+    clear: both;
+}

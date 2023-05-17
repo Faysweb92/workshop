@@ -1,0 +1,62 @@
+section {
+  width: 35%;
+  margin: auto;
+  border: 1px solid black;
+   display: flex;
+  justify-content: flex-start ;
+}
+
+.forme1 {
+  width: 100px;
+  height: 100px;
+  border: solid 1px black;
+  margin: 1px;
+  border-radius: 25px 30px 40px 50px;
+
+}
+.forme2 {
+  width: 100px;
+  height: 100px;
+  border: solid 1px black;
+  margin: 1px;
+  border-radius: 50px 0px;
+
+
+  
+}
+
+.forme3 {
+  width: 100px;
+  height: 100px;
+  border: solid 1px black;
+  margin: 1px;
+  border-radius: 50px 50px;
+
+  
+}
+
+.forme4 {
+  width: 100px;
+  height: 100px;
+  border: solid 1px black;
+  margin: 1px;
+  border-radius: 0px 50px;
+
+}
+
+.vert {
+  background-color: aquamarine;
+}
+
+.bleu {
+  background-color: rgb(140, 222, 233);
+}
+
+.marron {
+  background-color: rgb(201, 150, 150);
+}
+
+.clear {
+  clear: both;
+ 
+}
